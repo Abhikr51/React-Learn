@@ -1,0 +1,11 @@
+.nav-links {
+    display: flex;
+    margin: 6px 16px;
+}
+.header {
+    display: flex;
+    background: cyan;
+    padding: 14px 47px;
+    flex-direction: row-reverse;
+    font-family: system-ui;
+}
